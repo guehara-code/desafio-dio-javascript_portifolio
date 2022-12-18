@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/guehara-code/desafio-dio-javascript_portifolio/main/data/imgs/css.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/guehara-code/desafio-dio-javascript_portifolio/main/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/guehara-code/desafio-dio-javascript_portifolio/main/data/imgs/python.png"
       }
     ],
     "softSkills": [
