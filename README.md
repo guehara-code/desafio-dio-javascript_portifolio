@@ -1,1 +1,1 @@
-## Desafio DIO de criação de portifolio profissional em javascript/CSS
+## Desafio DIO de criação de portfolio profissional em javascript/CSS
