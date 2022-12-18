@@ -1,0 +1,48 @@
+{
+  "name": "Gilberto Uehara",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Engenherio",
+  "location": "São José dos Campos - SP",
+  "phone": "(12) 99999-9999",
+  "email": "test@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (avançado)",
+    "Francês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Desafio DIO para a criação de uma Pokedex",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Engheiro de Produto - Embraer SA",
+      "period": "2005 - 2016",
+      "description": "Aprendi muito ao lado de grandes profissionais."
+    }
+  ]
+}
